@@ -27,7 +27,7 @@ class Tree()
 ```
 
 _PROP/PROPParsigTree.ipynb_ é um resumo teórico dos temas necessários para entender o conteúdo em _PROP/prop.py_. 
-Video em Youtube:
+Video em Youtube: [Lógica: codificando Árvores Sintáticas (Parsing Trees) em Python (menos de cem linhas de código)](https://youtu.be/80fUJ8_T2Yc) 
 
 # INTELIGÊNCIA ARTIFICIAL
 
