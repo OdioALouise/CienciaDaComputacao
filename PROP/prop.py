@@ -9,6 +9,8 @@ unConnective   = u'¬';
 atom            = u'p\d+';
 falsum          = u'⊥';
 
+
+
 def checkProp(phi):
   #phi só tem símbolos do alfabeto de PROP
   if re.search(u'[^↔→∨∧⊥¬p\d\(\)]', phi) != None:
@@ -16,7 +18,7 @@ def checkProp(phi):
   #crear fila de espera
   queue = [];
   queue.insert(0, phi);
-  #mientras a fila de espera tenha textos a ser evaluados fazer
+  #enquanto a fila de espera tenha textos a ser evaluados fazer
   while(queue):
     #obter texto psi candidato a ser proposição
     psi = queue.pop(0)
@@ -77,6 +79,10 @@ u'((((¬(¬(¬((((p0→p1)→p2)→p0)→p15))))∧(¬(¬(¬((((p0→p1)→p2)�
       u'(((p0→p1)∧(p1→p2)∨(¬p0∧¬p1))',
       u'((p0→p1)→(p1p1))p0))',
       u'(((p0→p1)∧(p2→p3))∨((¬p1)∧(¬p2)))',
+      u'(((())))',
+      u'()',
+      u'',
+      u' ',
     ],
     'goldTag' : [
       False,
@@ -104,7 +110,11 @@ u'((((¬(¬(¬((((p0→p1)→p2)→p0)→p15))))∧(¬(¬(¬((((p0→p1)→p2)�
       False,
       False,
       False,
-      True
+      True,
+      False,
+      False,
+      False,
+      False,
     ]
 
   }
