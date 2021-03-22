@@ -36,4 +36,5 @@ na pasta _IA/_
 _IA/MaxEnt.opd_ contem uma introdução com um exemplo ao Princípio de Máxima Entropía.
 Video em Yotutube: [Inteligência Artificial: Princípio da Máxima Entropia (video I)](https://youtu.be/YECj2D7DQig)
 
-
+_IA/bot.py mini chatbot usando Expressões Regulares em Python.
+Artigo em Linkedin: [ELIZA - The 60'​s bot]()
