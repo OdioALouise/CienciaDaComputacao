@@ -37,4 +37,4 @@ _IA/MaxEnt.opd_ contem uma introdução com um exemplo ao Princípio de Máxima 
 Video em Yotutube: [Inteligência Artificial: Princípio da Máxima Entropia (video I)](https://youtu.be/YECj2D7DQig)
 
 _IA/bot.py mini chatbot usando Expressões Regulares em Python.
-Artigo em Linkedin: [ELIZA - The 60'​s bot]()
+Artigo em Linkedin: [ELIZA - The 60'​s bot](https://www.linkedin.com/pulse/eliza-60s-bot-sebasti%25C3%25A1n-daloia-servetti)
