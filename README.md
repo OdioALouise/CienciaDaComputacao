@@ -43,5 +43,5 @@ _IA/perceptron.py code that implements a perceptron for the purpose of writting 
 
 _IA/backpropagation.py code that implements a backpropagation algorithm for the purpose of writting the article in Linkedin: [ Backpropagation algorithm ](https://www.linkedin.com/pulse/backpropagation-algorithm-sebasti%C3%A1n-daloia-servetti)
 
-_IA/mlpAlgorithm.py code that implements a hard-wired MLP neural network to classify the Iris dataset of the seaborn library for the purpose of writting the article in Linkedin: [ MLP: Classify Iris Versicolor  ]()
+_IA/mlpAlgorithm.py code that implements a hard-wired MLP neural network to classify the Iris dataset of the seaborn library for the purpose of writting the article in Linkedin: [ MLP: Classify Iris Versicolor  ](https://www.linkedin.com/pulse/mlp-classify-iris-versicolor-sebasti%C3%A1n-daloia-servetti/?published=t)
 
