@@ -784,6 +784,4 @@ if __name__ == '__main__':
     globalMarker.append(mark);
 
 
-  #featureSelection(Features, dataSet);
-  #featureSelection(Features, extendedLALdataset);
-  #featureSelection(Features, extendedLALTrainingSet, extendedLALTestSet);
+  featureSelection(Features, extendedLALTrainingSet, extendedLALTestSet);
