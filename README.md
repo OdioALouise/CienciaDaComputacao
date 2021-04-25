@@ -45,3 +45,6 @@ _IA/backpropagation.py code that implements a backpropagation algorithm for the 
 
 _IA/mlpAlgorithm.py code that implements a hard-wired MLP neural network to classify the Iris dataset of the seaborn library for the purpose of writting the article in Linkedin: [ MLP: Classify Iris Versicolor  ](https://www.linkedin.com/pulse/mlp-classify-iris-versicolor-sebasti%C3%A1n-daloia-servetti/?published=t)
 
+_IA/featureSelection Set of files that implements Feature Selection Algorithm and Iterative Scaling to obtain the bests statistics of the season 2012 of the N.B.A. team Los Angeles Lakers [The Maximum Entropy Principle: thoroughly revisited with Python and N.B.A. dataset. ]()
+
+
