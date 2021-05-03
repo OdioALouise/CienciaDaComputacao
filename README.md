@@ -47,5 +47,5 @@ _IA/mlpAlgorithm.py code that implements a hard-wired MLP neural network to clas
 
 _IA/featureSelection Set of files that implements Feature Selection Algorithm and Iterative Scaling to obtain the bests statistics of the season 2012 of the N.B.A. team Los Angeles Lakers [The Maximum Entropy Principle: thoroughly revisited with Python and N.B.A. dataset. ](https://www.linkedin.com/pulse/maximum-entropy-principle-thoroughly-revisited-python-sebasti%25C3%25A1n)
 
-_IA/fuzze Files that implements Fuzzy Relations Rb,Rs,Rn and Fuzzy composition inference MAX-MIN for the Article [Inference with fuzzy logic]()
+_IA/fuzze Files that implements Fuzzy Relations Rb,Rs,Rn and Fuzzy composition inference MAX-MIN for the Article [Inference with fuzzy logic](https://www.linkedin.com/pulse/inference-fuzzy-logic-sebasti%C3%A1n-daloia-servetti)
 
